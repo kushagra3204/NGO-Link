@@ -1,16 +1,8 @@
-# ngo_link
+# NGO Link
+Bridging the gap for those in need.
 
-A new Flutter project.
+## About NGO Link
 
-## Getting Started
+People face difficulties reaching out for help from NGOs. They are unaware of the full range of options available to them. This happens due to the complexity of existing resources and lack of a simplistic alternative. Likewise the NGOs are unable to effectively reach and engage the target population. Smaller NGOs lack the resources to properly advertise themselves. NGOs often lack the data and methods to track their outreach efforts and measure their impact.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With this project, we aim to reduce the effort and simplify the process of contacting and reaching out to NGOs, and to eliminate the hassle of time consuming research.
